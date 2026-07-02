@@ -1,4 +1,4 @@
-# Hi, I'm Ain 👋
+# Hi, I'm Mohammed Hussain 👋
 
 🚀 MERN Stack Developer  
 💡 Passionate about building scalable web applications  
@@ -11,15 +11,17 @@
 - Express.js
 - MongoDB
 - JavaScript
+- CSS
+- Tailwind CSS
 
 ---
 
 ## 🔥 Projects
 - 🎵 Music Web Player (React + Context API)
-- 📱 Social Media App (WIP)
+- 📱 Resume Builder
 
 ---
 
 ## 📫 Contact
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: [mohammed-hussain921](https://www.linkedin.com/in/mohammed-hussain921/)
+- 📧 Email: [mohussainan@gmail.com](mailto:mohussainan@gmail.com)
